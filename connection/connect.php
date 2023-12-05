@@ -2,7 +2,7 @@
 
 //main connection file for both admin & front end
 $servername = "jyosql.mysql.database.azure.com"; //server
-$username = "Jyo"; //username
+$username = "jyo"; //username
 $password = "Anshtoyj@1234"; //password
 $dbname = "online_rest";  //database
 
