@@ -35,7 +35,7 @@
 
         if (!empty($_POST["submit"])) // if records were not empty
         {
-            $loginquery = "SELECT * FROM users WHERE username='$username'";
+            $loginquery = "SELECT * FROM users WHERE username='$username' && password='$password'";
             $result = mysqli_query($db, $loginquery);
             $row = mysqli_fetch_assoc($result);
 
