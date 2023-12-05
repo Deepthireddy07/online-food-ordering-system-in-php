@@ -1,7 +1,7 @@
 <?php
 
 //main connection file for both admin & front end
-$servername = "jyohello.mysql.database.azure.com"; //server
+$servername = "jyosql.mysql.database.azure.com"; //server
 $username = "Jyo"; //username
 $password = "Anshtoyj@1234"; //password
 $dbname = "online_rest";  //database
