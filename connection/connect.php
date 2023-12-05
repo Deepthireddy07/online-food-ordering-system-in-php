@@ -14,3 +14,4 @@ if (!$db) {       //checking connection to DB
 }
 
 ?>
+    
